@@ -1,5 +1,7 @@
 # CodeClause_PDF_to_Word_Converter
 
+## Pdf to word converter using pdftron
+
 Set Up
 1. Clone the repository
 2. npm i @pdftron/pdfnet-node express multer
